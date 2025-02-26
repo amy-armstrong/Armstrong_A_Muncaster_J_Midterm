@@ -1,16 +1,9 @@
-This is Jo's version to create a merge conflict.
+# Armstrong_A_Muncaster_J_Midterm
+This repo is our midterm for Multi Media Authoring.
 
 # midterm-w25
 
-
-This is a repo for our midterm assignment.
-
-
-# Midterm
-
-
-This is our midterm assignment.
-
+This is a repo for our midterm assignment. 
 
 ## Subject
 We are debating the topic of time traveling : the past vs future.
@@ -64,3 +57,4 @@ MIT License
 
 
 TODO: Write license
+
